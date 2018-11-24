@@ -1,0 +1,4 @@
+rasa_nlu[spacy]
+spacy==2.0.12
+sklearn==0.0
+sklearn-crfsuite==0.3.6

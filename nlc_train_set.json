@@ -1,0 +1,37 @@
+{
+  "rasa_nlu_data": {
+    "regex_features": [],
+    "entity_synonyms": [
+      {
+        "value": "light",
+        "synonyms": [
+          "lights",
+          "light bulb",
+          "lamp"
+        ]
+      }
+    ],
+    "common_examples": [
+      {
+        "text": "turn on the light",
+        "intent": "light_on",
+        "entities": []
+      },
+      {
+        "text": "please turn on the light",
+        "intent": "light_on",
+        "entities": []
+      },
+      {
+        "text": "turn off the light",
+        "intent": "light_off",
+        "entities": []
+      },
+      {
+        "text": "please turn off the light",
+        "intent": "light_off",
+        "entities": []
+      }
+    ]
+  }
+}

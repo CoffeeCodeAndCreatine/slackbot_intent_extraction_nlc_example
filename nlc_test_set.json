@@ -1,0 +1,8 @@
+[
+{"text": "light on", "intent": "light_on"},
+{"text": "light on please", "intent": "light_on"},
+{"text": "please turn on the light", "intent": "light_on"},
+{"text": "light off", "intent": "light_off"},
+{"text": "light off please", "intent": "light_off"},
+{"text": "please turn off the light", "intent": "light_off"}
+]
